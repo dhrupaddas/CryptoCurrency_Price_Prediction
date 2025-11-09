@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas
+ipykernel
+matplotlib
+seaborn
+scipy==1.12.0
+statsmodels==0.14.2
+pmdarima==2.0.4
+tqdm
+tensorflow==2.17.0
+streamlit
